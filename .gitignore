@@ -1,0 +1,17 @@
+# Ignore Java class files and build artifacts
+*.class
+*.jar
+*.log
+*.out
+
+# Ignore IDE settings
+.idea/
+.vscode/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Output files
+/output/
